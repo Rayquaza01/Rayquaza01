@@ -31,9 +31,9 @@
   </a>
   <a href="https://addons.mozilla.org/en-US/firefox/user/12196373/">
     <picture>
-      <source srcset="https://img.shields.io/badge/Firefox_Addons-%23363a4f?style=for-the-badge&logo=firefox" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://img.shields.io/badge/Firefox_Addons-%23ffffff?style=for-the-badge&logo=firefox" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://img.shields.io/badge/Firefox_Addons-%23ffffff?style=for-the-badge&logo=firefox" alt="Firefox Addons">
+      <source srcset="https://img.shields.io/badge/Firefox_Addons-%23363a4f?style=for-the-badge&logo=firefoxbrowser" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://img.shields.io/badge/Firefox_Addons-%23ffffff?style=for-the-badge&logo=firefoxbrowser" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://img.shields.io/badge/Firefox_Addons-%23ffffff?style=for-the-badge&logo=firefoxbrowser" alt="Firefox Addons">
     </picture>
   </a>
 </p>
