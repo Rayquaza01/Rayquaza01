@@ -1,16 +1,20 @@
 <h2 align="center">Sorry, something went wrong...</h2>
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Rayquaza01&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Rayquaza01&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Rayquaza01&show_icons=true" alt="GitHub Stats" height="200">
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayquaza01&layout=compact&langs_count=8&card_width=320&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayquaza01&layout=compact&langs_count=8&card_width=320" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayquaza01&layout=compact&langs_count=8&card_width=320" alt="Top Languages" height="200">
-  </picture>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=Rayquaza01&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=Rayquaza01&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Rayquaza01&show_icons=true" alt="GitHub Stats" height="200">
+    </picture>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayquaza01&layout=compact&langs_count=8&card_width=320&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayquaza01&layout=compact&langs_count=8&card_width=320" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayquaza01&layout=compact&langs_count=8&card_width=320" alt="Top Languages" height="200">
+    </picture>
+  </a>
 </p>
 
 <h3 align="center">Find Me Elsewhere</h3>
